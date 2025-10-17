@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Editor",
+  "description": "An AI-powered photo editor that can remove backgrounds, replace backgrounds, colorize images, and perform other magical edits using natural language prompts.",
+  "requestFramePermissions": []
+}
